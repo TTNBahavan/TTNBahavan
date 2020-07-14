@@ -3,7 +3,7 @@
 🔭 I’m currently working on Neural Signal Processing<br/>
 🌱 I’m currently a Biomedical Engineering Student<br/>
 👯 I’m looking to collaborate on Deep Learning and Digital Design<br/>
-💬 Ask me about Signal Processing, Deep Learning, Statistics, Digital Design, and Data Science<br/>
+💬 Ask me about Signal Processing, Digital Design, and Data Science<br/>
 
 
 <!--
