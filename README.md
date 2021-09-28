@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Neural Signal Processing and High Dimensional Statistics<br/>
-🌱 I’m currently a Biomedical Engineering Student<br/>
-👯 I’m looking to collaborate on Neural engineering projects and Bio-inspired AI<br/>
+🔭 I’m currently working on Hardware Accelaration for Deep Learning<br/>
+🌱 I’m a Biomedical Engineering Graduate<br/>
+👯 I’m looking to collaborate on Bio-imaging projects and Bio-inspired AI<br/>
 💬 Ask me about Signal Processing, Digital Design, and Data Science<br/>
 
 
