@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Hardware Accelaration for Deep Learning<br/>
+🔭 I’m currently doing a PhD on Deep Learning<br/>
 🌱 I’m a Biomedical Engineering Graduate<br/>
-👯 I’m looking to collaborate on Bio-imaging projects and Bio-inspired AI<br/>
+👯 I’m looking to collaborate on OOD detection/ Openset Recognition<br/>
 💬 Ask me about Signal Processing, Digital Design, and Data Science<br/>
 
 
